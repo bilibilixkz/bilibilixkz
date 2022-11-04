@@ -1,4 +1,9 @@
-### Hi there 👋
+# GitHub Account of bilibilixkz 👋
+
+## About Me
+
+👋Hi, I'm 相框z (Call me Zac if you can't speak chinese)
+
 
 <!--
 **bilibilixkz/bilibilixkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
