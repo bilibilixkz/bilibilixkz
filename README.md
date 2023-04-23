@@ -6,7 +6,7 @@
 
 👀 I’m interested in single-chip microcomputer
 
-🌱 I’m currently learning C# / Python / CSS / Java
+🌱 I’m currently learning C# / Python / Virtual Basic
 
 📫 How to reach me : [email](mailto:bilibili_xkz@qq.com)
 
