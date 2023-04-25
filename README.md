@@ -4,7 +4,7 @@
 
 👋Hi, I'm 相框z (Call me Zac if you can't speak chinese)
 
-👀 I’m interested in single-chip microcomputer
+👀 I’m interested in single-chip microcomputers
 
 🌱 I’m currently learning C# / Python / Virtual Basic
 
