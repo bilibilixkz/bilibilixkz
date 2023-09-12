@@ -2,15 +2,15 @@
 
 ## About Me
 
-👋Hi, I'm 相框z (Call me Zac if you can't speak chinese)
+👋 Hi, I'm 相框z (Call me Zac if you don't speak chinese)
 
-👀 I’m interested in single-chip microcomputers
+👀 I’m interested in single-chip microcomputers recently
 
-🌱 I’m currently learning C# / Python / Virtual Basic
+🌱 I’m currently learning AutoIt / Python / Virtual Basic
 
 📫 How to reach me : [email](mailto:bilibili_xkz@qq.com)
 
-⚡ Fun fact: I'm bad in chinese handwriting
+⚡ Fun fact: I'm bad in Chinese handwriting
 
 ![My GitHub status](https://github-readme-stats.vercel.app/api?username=bilibilixkz)
 ![Languages I can use](https://github-readme-stats.vercel.app/api/top-langs?username=bilibilixkz&show_icons=true&count_private=true)
