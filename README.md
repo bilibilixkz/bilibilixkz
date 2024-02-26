@@ -14,6 +14,11 @@
 
 ![My GitHub status](https://github-readme-stats.vercel.app/api?username=bilibilixkz)
 ![Languages I can use](https://github-readme-stats.vercel.app/api/top-langs?username=bilibilixkz&show_icons=true&count_private=true)
+
+## Plans of the Year
+
+- Commit codes at least once a week, except weeks to prepare for a test.
+- Try to learn unused frameworks.
 <!--
 **bilibilixkz/bilibilixkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
